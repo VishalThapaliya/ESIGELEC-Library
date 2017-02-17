@@ -1,6 +1,6 @@
 # ESIGELEC-Library
 
-ESIGELEC Library is a Library Management System (LMS) developed using WPF and WCF technologies aims to help librarians to manage and control the transactions in a library.
+ESIGELEC Library is a Library Management System (LMS) developed in C# using WPF and WCF technologies aims to help librarians to manage and control the transactions in a library.
 -- Only Admin can access to this application. 
 
 -- Basic informations regarding LMS are as follows;
